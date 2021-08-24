@@ -3,7 +3,7 @@ import './style.css';
 function BoardGame(amountCards) {
     const $htmlCardGame = CardGame();
     const $htmlContent = $htmlCardGame.repeat(amountCards);
-    return `
+    return /*html*/`
     <section class="board-game">
         ${$htmlContent}
     </section>

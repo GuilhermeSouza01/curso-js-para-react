@@ -1,7 +1,6 @@
 .player-name {
-    font-family: Press Start 2P;
+    font-size: 1rem;
     font-style: normal;
     font-weight: normal;
-    font-size: 30px;
     color: var(--color-floral-white);
 }
